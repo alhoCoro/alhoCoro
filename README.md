@@ -9,4 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhoCoro&hide_progress=true)
 
-🚀Aprendendo com o curso da Udemy💜🔥 sobre POO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB.😃
+
